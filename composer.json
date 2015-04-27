@@ -1,0 +1,9 @@
+{
+  "license": "MIT",
+  "name": "chervand/yii-easy-pie-chart",
+  "require": {
+    "yiisoft/yii": ">=1.1.16",
+    "fxp/composer-asset-plugin": "1.0.0",
+    "bower-asset/jquery.easy-pie-chart": ">=2.1.6"
+  }
+}
